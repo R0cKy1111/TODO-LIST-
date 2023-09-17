@@ -6,7 +6,7 @@ Add new task
 Mark task as completed / uncompleted
 Delete single task
 Delete completed tasks
-multiple task enteries 
+Multiple task enteries 
 
 
 Technologies used:
@@ -20,3 +20,5 @@ Bootstrap
 
 App demo
 todolist.great-site.net
+
+*if website does not show css please try and clean cache file on web browser
