@@ -39,9 +39,6 @@ CREATE TABLE `task` (
 --
 
 INSERT INTO `task` (`task_id`, `task`, `status`) VALUES
-(1, 'Check Errors', 'Done'),
-(4, 'Remove Bugs', ''),
-(5, 'Need Improvements', '');
 
 --
 -- Indexes for dumped tables
